@@ -1,6 +1,6 @@
 <!--### Hi there 👋 
-
-
+멋쟁이사자처럼 11기
+SSAFY ambassador
 **minseokKim6823/minseokKim6823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
