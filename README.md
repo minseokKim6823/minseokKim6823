@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ssafy ambassador 2023.9.23
 
-상명대학교 학교 축제 페이지
+2023 상명대학교 학교 축제 페이지 BE
  
 <!--
 - 🔭 I’m currently working on ...
