@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 멋쟁이 사자처럼11기 상명대학교(천안) 대표 2023.3 ~
 
-ssafy ambassador 2023.9.23
+ssafy ambassador 2023.9.23 ~
 
-2023 상명대학교 학교 축제 페이지 BE
+2023 상명대학교 학교 축제 페이지 "비상" BE
  
 <!--
 - 🔭 I’m currently working on ...
