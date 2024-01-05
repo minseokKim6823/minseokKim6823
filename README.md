@@ -3,11 +3,11 @@
 
 <br/>
 멋쟁이 사자처럼11기 상명대학교(천안) 대표 2023.3 ~
-
+<br/><br/>
 ssafy ambassador 2023.9.23 ~
-
+<br/><br/>
 2023 상명대학교 학교 축제 페이지 "비상" BE
-<br/>
+<br/><br/><br/>
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
