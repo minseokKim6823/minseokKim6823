@@ -10,4 +10,4 @@ ssafy ambassador 2023.9.23 ~
 <br/><br/><br/>
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!--![](./profile-3d-contrib/profile-green-animate.svg)-->
