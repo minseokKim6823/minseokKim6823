@@ -4,7 +4,7 @@
 <br>
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520minseokKim6823%2Fhit-counter&count_bg=%2301DAEF&title_bg=%23555555&icon=&icon_color=%23C0A8A8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>-->
 
-<h3>I'm currently studing</h3>
+<h3>I'm currently studying</h3>
 <div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src ="https://img.shields.io/badge/SPRING BOOT-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
