@@ -25,7 +25,7 @@ ssafy ambassador 2023.9.23 ~ 2024.2.28
 <br/><br/>
 2024 GSC '철수의 옷장' BE
 <br/><br/>
-2024 트렌디톤 'Coy' BE  (최우수상)
+2024 트렌디톤 'Coy' BE  (최우수상)  https://github.com/Trendithon-Spin-Off
 <br/><br/><br/>
 
 ![](./profile-3d-contrib/profile-night-view.svg)  
