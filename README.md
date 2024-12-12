@@ -10,6 +10,7 @@
 <img src ="https://img.shields.io/badge/MariaDB-4479A1.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
 <img src ="https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img src = "https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white />
+  
 <br/><br/><br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjr6823)](https://solved.ac/alstjr6823/)
