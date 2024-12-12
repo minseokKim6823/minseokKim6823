@@ -8,11 +8,13 @@
 
 <img src ="https://img.shields.io/badge/SPRING BOOT-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MariaDB-4479A1.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white"/>
 <img src = "https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Elastic%20Beanstalk-4CAF50?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+
 <img src ="https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <br/><br/><br/>
 
