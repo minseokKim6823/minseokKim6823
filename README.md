@@ -4,17 +4,19 @@
 <br/><div>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520minseokKim6823%2Fhit-counter&count_bg=%2301DAEF&title_bg=%23555555&icon=&icon_color=%23C0A8A8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 <div><div><br/>
-<h2>I'm currently studying</h2>
+<h2>I'm currently studying...📝</h2>
 
 <img src ="https://img.shields.io/badge/SPRING BOOT-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MariaDB-4479A1.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src = "https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white" />
-<br/>
+
+<br/><br/>
 <img src="https://img.shields.io/badge/Elastic%20Beanstalk-4CAF50?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src ="https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <br/><br/><br/>
 
