@@ -6,12 +6,11 @@
 <div><div><br/>
 <h2>I'm currently studying</h2>
 <div>
-<!--<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>-->
 <img src ="https://img.shields.io/badge/SPRING BOOT-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-<img src ="https://img.shields.io/badge/MariaDB-4479A1.svg?&style=for-the-badge&logo=MariaDB&logoColor=black"/>
-<img src ="https://img.shields.io/badge/AWS-4479A1.svg?&style=for-the-badge&logo=AWS&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/ElasticBeanstalk-4479A1.svg?&style=for-the-badge&logo=AWS&logoColor=white"/>
-<br/>
+<img src ="https://img.shields.io/badge/MariaDB-4479A1.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+<img src ="https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src = "https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white />
+<br/><br/><br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjr6823)](https://solved.ac/alstjr6823/)
 
