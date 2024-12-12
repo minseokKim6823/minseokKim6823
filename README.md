@@ -12,7 +12,7 @@
 <img src = "https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Elastic%20Beanstalk-4CAF50?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src ="https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <br/><br/><br/>
 
