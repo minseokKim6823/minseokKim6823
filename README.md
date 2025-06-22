@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src = "https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white"">
+<img src="https://img.shields.io/badge/fastapi-AAE5A7?style=for-the-badge&logo=fastapi&logoColor=dark"">
 
 <br/><br/>
 <img src="https://img.shields.io/badge/Elastic%20Beanstalk-4CAF50?style=for-the-badge&logo=amazonaws&logoColor=white"/>
